@@ -1,0 +1,14 @@
+j11,hanane,21,3rd yr,cst
+j23,achraf,20,freshman,CST
+f77,manaf,20,3rd yr,IET
+j52,MRX,23,freshman,CST
+f33,Taha,19,2nd yr,CST
+j67,abderahim,21,3rd yr,CST
+J54,Rayan,17,freshman,CST
+j12,abdo,18,1rst,cst
+j55,sameer,24,freshman,CST
+g44,azzedine,17,freshman,IET
+j88,simo,20,3rd yr,CST
+f25,wejdi,20,3rd yr,CST
+j55,ANASS,20,freshman,CST
+g36,walid,24,freshman,IET
